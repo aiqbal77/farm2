@@ -17,7 +17,7 @@ class DairyFarmApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return const CupertinoApp(
-      title: 'Dairy Farm Investments',
+      title: 'Dairy Farm Investments - Deployed',
       theme: CupertinoThemeData(
         brightness: Brightness.light,
         primaryColor: CupertinoColors.systemGreen,
